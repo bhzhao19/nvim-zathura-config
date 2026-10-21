@@ -1,5 +1,7 @@
 # Neovim + VimTeX + Zathura LaTeX写作环境配置
 
+[中文版本](README.md) | [English Version](README_EN.md)
+
 本项目是专为 LaTeX 写作打造的 Neovim 配置，集成了 **VimTeX**（用于高效编译、正反向检索）和 **nvim-tree**（文件树侧边栏）。配合 **Zathura** 阅读器，可以实现极其流畅的正反向同步。
 
 ---

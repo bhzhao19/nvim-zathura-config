@@ -1,5 +1,7 @@
 # Neovim + VimTeX + Zathura LaTeX Setup
 
+[中文版本](README.md) | [English Version](README_EN.md)
+
 This repository provides a streamlined Neovim configuration optimized for LaTeX editing. It integrates **VimTeX** (for compilation and sync) and **nvim-tree** (for file navigation). Paired with the **Zathura** PDF viewer, it enables a seamless workflow with forward and inverse search (SyncTeX).
 
 ---
